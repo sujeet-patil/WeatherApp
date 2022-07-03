@@ -27,6 +27,7 @@ body{
     border-radius: 16px;
     margin: 1rem;
     box-shadow: 0 0 10px 10px lightslategray;
+    max-width: 350px;
 }
 .temps{
     display: flex;
@@ -44,7 +45,7 @@ body{
 }
 
 #search_btn, #search_bar, .info{
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     margin: 0.5rem;
 }
 #search_btn, #search_bar{
