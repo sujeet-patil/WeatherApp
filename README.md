@@ -11,6 +11,8 @@ location in search bar.
 
 ![App Screenshot](https://github.com/sujeet-patil/WeatherApp/blob/main/Screenshots/Capture.PNG?raw=true)
 
+![App Screenshot](https://github.com/sujeet-patil/WeatherApp/blob/main/Screenshots/capture1.PNG?raw=true)
+
 
 ## Demo
 
